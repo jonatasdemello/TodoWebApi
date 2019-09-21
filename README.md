@@ -1,5 +1,5 @@
-# TodoWebApi
-Simple ToDo list app with .Net Core Web Api and Front-End in Angular 7
+# TodoMvc
+Todo task list in .Net Core
 
 This is a simple "To Do" list app, built on .net core 2.2
 
@@ -15,7 +15,7 @@ Implemented so far:
 Some ideas to implement next:
 
 - List manager => create multiple lists
-- replace MVC views by some FE framework (React? Angular?)
+- replace MVC views by soem FE framework (React? Angular?)
 
 ## Build and Run
 
